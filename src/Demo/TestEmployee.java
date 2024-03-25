@@ -23,6 +23,7 @@ public class TestEmployee {
         System.out.println(e.salary);
         System.out.println(e2.id);
         System.out.println(e2.name);
+        System.out.println("vgbhjkl");
 
 
 
