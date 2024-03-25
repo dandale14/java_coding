@@ -27,5 +27,7 @@ public class Custom {
         custom.m2(20);
         custom.m3();
         custom.m4(10);
+        System.out.println("method");
+
     }
 }
