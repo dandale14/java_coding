@@ -1,4 +1,4 @@
-package Method;
+package Opps.Method;
 
 public class Custom {
     public void m1()

@@ -15,7 +15,7 @@ public class Aadhar {
         this.address = address;
     }
 
-    public Aadhar() {
+    public  Aadhar() {
     }
 
     public void Detail() {
